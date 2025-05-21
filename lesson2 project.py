@@ -1,4 +1,4 @@
-math_statement = input("Enter in a math statement: ")
+ math_statement = input("Enter in a math statement: ")
 
 math_terms = math_statement.split(" ")
 print(math_terms)
